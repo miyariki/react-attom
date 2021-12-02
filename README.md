@@ -1,2 +1,2 @@
-# react-attom
+# react-atom
 Created with CodeSandbox
